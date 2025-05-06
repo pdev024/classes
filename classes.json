@@ -1,0 +1,79 @@
+{
+  "classes": [
+    {
+      "class_name": "Class A",
+      "students": [
+        { "name": "Aryan Shah", "roll_no": 1, "attendance_status": "Present" },
+        { "name": "Diya Patel", "roll_no": 2, "attendance_status": "Absent" },
+        { "name": "Krish Mehta", "roll_no": 3, "attendance_status": "Present" },
+        { "name": "Isha Desai", "roll_no": 4, "attendance_status": "Present" },
+        { "name": "Yash Rawal", "roll_no": 5, "attendance_status": "Absent" },
+        { "name": "Simran Joshi", "roll_no": 6, "attendance_status": "Present" },
+        { "name": "Dev Shah", "roll_no": 7, "attendance_status": "Present" },
+        { "name": "Pooja Gohil", "roll_no": 8, "attendance_status": "Absent" },
+        { "name": "Rohan Bhatt", "roll_no": 9, "attendance_status": "Present" },
+        { "name": "Neha Trivedi", "roll_no": 10, "attendance_status": "Present" }
+      ]
+    },
+    {
+      "class_name": "Class B",
+      "students": [
+        { "name": "Tanya Singh", "roll_no": 1, "attendance_status": "Absent" },
+        { "name": "Arjun Rana", "roll_no": 2, "attendance_status": "Present" },
+        { "name": "Meera Solanki", "roll_no": 3, "attendance_status": "Present" },
+        { "name": "Ritik Sharma", "roll_no": 4, "attendance_status": "Absent" },
+        { "name": "Kavya Sinha", "roll_no": 5, "attendance_status": "Present" },
+        { "name": "Harsh Patel", "roll_no": 6, "attendance_status": "Present" },
+        { "name": "Ananya Thakur", "roll_no": 7, "attendance_status": "Absent" },
+        { "name": "Nikhil Bansal", "roll_no": 8, "attendance_status": "Present" },
+        { "name": "Zoya Khan", "roll_no": 9, "attendance_status": "Present" },
+        { "name": "Manav Saxena", "roll_no": 10, "attendance_status": "Absent" }
+      ]
+    },
+    {
+      "class_name": "Class C",
+      "students": [
+        { "name": "Rajvi Patel", "roll_no": 1, "attendance_status": "Present" },
+        { "name": "Karan Joshi", "roll_no": 2, "attendance_status": "Present" },
+        { "name": "Sonal Sharma", "roll_no": 3, "attendance_status": "Absent" },
+        { "name": "Ayaan Sheikh", "roll_no": 4, "attendance_status": "Present" },
+        { "name": "Lavanya Chauhan", "roll_no": 5, "attendance_status": "Present" },
+        { "name": "Varun Gohil", "roll_no": 6, "attendance_status": "Absent" },
+        { "name": "Sneha Vora", "roll_no": 7, "attendance_status": "Present" },
+        { "name": "Rishi Shah", "roll_no": 8, "attendance_status": "Present" },
+        { "name": "Priya Jain", "roll_no": 9, "attendance_status": "Absent" },
+        { "name": "Veer Bhagat", "roll_no": 10, "attendance_status": "Present" }
+      ]
+    },
+    {
+      "class_name": "Class D",
+      "students": [
+        { "name": "Mira Modi", "roll_no": 1, "attendance_status": "Absent" },
+        { "name": "Yuvraj Parmar", "roll_no": 2, "attendance_status": "Present" },
+        { "name": "Naina Shah", "roll_no": 3, "attendance_status": "Present" },
+        { "name": "Rudra Mehta", "roll_no": 4, "attendance_status": "Absent" },
+        { "name": "Aarohi Desai", "roll_no": 5, "attendance_status": "Present" },
+        { "name": "Tanmay Rawal", "roll_no": 6, "attendance_status": "Present" },
+        { "name": "Nidhi Trivedi", "roll_no": 7, "attendance_status": "Absent" },
+        { "name": "Parth Solanki", "roll_no": 8, "attendance_status": "Present" },
+        { "name": "Riya Sharma", "roll_no": 9, "attendance_status": "Present" },
+        { "name": "Dhruv Patel", "roll_no": 10, "attendance_status": "Absent" }
+      ]
+    },
+    {
+      "class_name": "Class E",
+      "students": [
+        { "name": "Ishaan Jain", "roll_no": 1, "attendance_status": "Present" },
+        { "name": "Kritika Soni", "roll_no": 2, "attendance_status": "Absent" },
+        { "name": "Om Thakkar", "roll_no": 3, "attendance_status": "Present" },
+        { "name": "Aisha Shaikh", "roll_no": 4, "attendance_status": "Present" },
+        { "name": "Rudraksh Gohil", "roll_no": 5, "attendance_status": "Absent" },
+        { "name": "Tina Dholakia", "roll_no": 6, "attendance_status": "Present" },
+        { "name": "Vivaan Shukla", "roll_no": 7, "attendance_status": "Present" },
+        { "name": "Nandini Joshi", "roll_no": 8, "attendance_status": "Absent" },
+        { "name": "Siddharth Bhat", "roll_no": 9, "attendance_status": "Present" },
+        { "name": "Reena Desai", "roll_no": 10, "attendance_status": "Present" }
+      ]
+    }
+  ]
+}
